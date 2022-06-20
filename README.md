@@ -1,5 +1,5 @@
 # Customer Segmentation using Machine Learning (R)
-The aim of this project is to utilise Machine Learning to analyse the customer-personality.csv dataset to understand customer behaviours and purchasing patterns. 
+The aim of this project is to utilise Machine Learning to analyse the [customer-personality.csv](https://github.com/ngyiling/customer-segmentation-ML/blob/main/customer-personality.csv) dataset to understand customer behaviours and purchasing patterns. 
 
 <br />
 
